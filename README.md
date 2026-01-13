@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm Dhruv Limbasiya
+## 👨‍💻 About Me
+Brief intro, what you do, what you’re learning.
 
-<!--
-**DhruvLimbasiya13/DhruvLimbasiya13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Skills
+List your languages & tools (with icons).
 
-Here are some ideas to get you started:
+## 📊 GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Projects
+Showcase featured repos.
+
+## 📫 Get in Touch
+Email, LinkedIn, Twitter, Website
