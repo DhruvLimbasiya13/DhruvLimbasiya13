@@ -33,17 +33,11 @@
 
 ## 📊 GitHub Stats
 
-![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=DhruvLimbasiya13&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DhruvLimbasiya13&show_icons=true&theme=tokyonight&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvLimbasiya13&layout=compact&theme=tokyonight&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvLimbasiya13&layout=compact&theme=tokyonight)
 ## 💼 Featured Projects
-
-### 🔹 Hotel Management System
-- ASP.NET Core Web API + ASP.NET MVC
-- RESTful APIs, SQL Server
-- Authentication & CRUD operations
-
-### 🔹 Faculty & Student Authentication System
+### 🔹 Expense Management System
 - Node.js, Express, MongoDB
 - JWT Authentication
 - Role-based access control
