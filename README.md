@@ -13,23 +13,34 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-  <a href="https://twitter.com/limbasiya_dhruv">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" style="margin-right:10px;" />
-  </a>
+  <!-- Linkedin -->
   <a href="https://linkedin.com/in/dhruvlimbasiya">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" style="margin-right:10px;" />
   </a>
-  <a href="https://instagram.com/dhruv.limbasiya_">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" style="margin-right:10px;" />
+
+  <!-- Leetcode -->
+  <a href="https://www.leetcode.com/dhruvlimbasiya">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" />
   </a>
-  <a href="https://www.behance.net/dhruvlimbasiya">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" height="30" style="margin-right:10px;" />
-  </a>
+
+  <!-- HackerRank -->
   <a href="https://www.hackerrank.com/limbasiyadhruv">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" style="margin-right:10px;" />
   </a>
-  <a href="https://www.leetcode.com/dhruvlimbasiya">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" />
+
+  <!-- Behance -->
+  <a href="https://www.behance.net/dhruvlimbasiya">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" height="30" style="margin-right:10px;" />
+  </a>
+
+  <!-- Twitter -->
+  <a href="https://twitter.com/limbasiya_dhruv">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" style="margin-right:10px;" />
+  </a>
+
+  <!-- Instagram -->
+  <a href="https://instagram.com/dhruv.limbasiya_">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" style="margin-right:10px;" />
   </a>
 </p>
 
