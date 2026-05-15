@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dhruv Limbasiya</h1>
 <h3 align="center">Computer Science Student | MERN Stack Developer</h3>
-<img align="right" alt="coding" width="400px" height="350px" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
+<img align="right" alt="coding" width="400px" height="300px" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
 ## 👨‍💻 About Me
 
 - 🎓 Computer Science Student
