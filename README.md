@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dhruv Limbasiya</h1>
 <h3 align="center">Computer Science Student | MERN Stack Developer</h3>
-<img align="right" alt="coding" width="400px" height="275px" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
+<img align="right" alt="coding" width="400px" height="375px" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
 ## 👨‍💻 About Me
 
 - 🎓 Computer Science Student
@@ -133,5 +133,5 @@
 [![](https://visitcount.itsvg.in/api?id=DhruvLimbasiya13&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Open+Source+Enthusiast;React+%7C+Node+%7C+MongoDB;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Learning,+Building,+Improving;React+%7C+Express+%7C+MongoDB;Always+Learning+New+Things" />
 </p>
