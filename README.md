@@ -131,9 +131,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=DhruvLimbasiya13&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Learning,+Building,+Improving;React+%7C+Express+%7C+MongoDB;Always+Learning+New+Things" />
-</p>
